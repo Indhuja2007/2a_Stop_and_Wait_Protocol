@@ -17,7 +17,6 @@ To write a python program to perform stop and wait protocol
 1.Server Side
 
 ```
-
 import socket
 
 s = socket.socket()
@@ -38,7 +37,6 @@ s.close()
 2.Client side
 
 ```
-
 import socket
 
 s = socket.socket()
