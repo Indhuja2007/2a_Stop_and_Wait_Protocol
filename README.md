@@ -1,4 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
+
+## Name: INDHUJA.K
+## Register no: 212225040133
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
